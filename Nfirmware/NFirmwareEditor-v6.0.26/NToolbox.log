@@ -1,0 +1,72 @@
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Reading dataflash... 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Reading dataflash... Done. 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Switching boot mode... 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Writing dataflash... 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Writing dataflash... Done. Waiting 500 msec. 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Restarting device... 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Restarting device... Done. 
+
+[2016.12.06 13:23:35][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Waiting for device after reset... 
+
+[2016.12.06 13:23:36][INFO][11][System.Threading.SpinWait.SpinUntil]
+Device found in the LDROM boot mode. 
+
+[2016.12.06 13:23:36][INFO][11][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Waiting for device after reset... Done. 
+
+[2016.12.06 13:23:36][INFO][11][System.Threading.SpinWait.SpinUntil]
+Uploading firmware... 
+
+[2016.12.06 13:23:40][INFO][11][System.Threading.SpinWait.SpinUntil]
+Uploading firmware... Done. 
+
+[2016.12.06 14:58:38][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Reading dataflash... 
+
+[2016.12.06 14:58:38][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Reading dataflash... Done. 
+
+[2016.12.06 14:58:38][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Switching boot mode... 
+
+[2016.12.06 14:58:38][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Writing dataflash... 
+
+[2016.12.06 14:58:39][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Writing dataflash... Done. Waiting 500 msec. 
+
+[2016.12.06 14:58:39][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Restarting device... 
+
+[2016.12.06 14:58:39][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Restarting device... Done. 
+
+[2016.12.06 14:58:39][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Waiting for device after reset... 
+
+[2016.12.06 14:58:40][INFO][8][System.Threading.SpinWait.SpinUntil]
+Device found in the LDROM boot mode. 
+
+[2016.12.06 14:58:40][INFO][8][NToolbox.Windows.FirmwareUpdaterWindow.BackgroundWorker_DoWork]
+Waiting for device after reset... Done. 
+
+[2016.12.06 14:58:40][INFO][8][System.Threading.SpinWait.SpinUntil]
+Uploading firmware... 
+
+[2016.12.06 14:58:44][INFO][8][System.Threading.SpinWait.SpinUntil]
+Uploading firmware... Done. 
+

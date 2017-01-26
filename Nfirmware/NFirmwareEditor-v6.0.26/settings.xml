@@ -1,0 +1,18 @@
+﻿<Configuration>
+  <MainWindowTop>225</MainWindowTop>
+  <MainWindowLeft>560</MainWindowLeft>
+  <MainWindowWidth>800</MainWindowWidth>
+  <MainWindowHeight>600</MainWindowHeight>
+  <MainWindowMaximaged>false</MainWindowMaximaged>
+  <ShowGid>true</ShowGid>
+  <GridSize>16</GridSize>
+  <ImageEditorMouseMode>LeftSetRightUnset</ImageEditorMouseMode>
+  <BackupCreationMode>Extended</BackupCreationMode>
+  <CheckForApplicationUpdates>true</CheckForApplicationUpdates>
+  <CheckForPatchesUpdates>true</CheckForPatchesUpdates>
+  <CheckForDefinitionsUpdates>true</CheckForDefinitionsUpdates>
+  <MostRecentlyUsed>
+    <Item>C:\Users\rob.rogers-admin\Desktop\NFirmwareEditor.v6.0\af_161204.bin</Item>
+  </MostRecentlyUsed>
+  <DeviceMonitorSeries />
+</Configuration>

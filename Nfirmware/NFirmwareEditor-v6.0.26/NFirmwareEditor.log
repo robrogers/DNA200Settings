@@ -1,0 +1,6 @@
+[2016.12.06 13:21:18][WARN][4][NFirmwareEditor.Managers.GitHubApi.GetLatestRelease]
+An error occurred during checking for updates. System.Net.WebException: The operation has timed out
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at NFirmwareEditor.Managers.GitHubApi.GetLatestRelease()
+
